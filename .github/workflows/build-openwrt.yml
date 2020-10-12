@@ -26,7 +26,7 @@ on:
 
 env:
   REPO_URL: https://github.com/xms363/HomeLede
-  REPO_BRANCH: K5
+  REPO_BRANCH: k5
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
