@@ -18,7 +18,7 @@ on:
     branches:
       - main
     paths:
-      - '.config'
+      - 'diy-1.config'
 #  schedule:
 #    - cron: 0 8 * * 5
 #  watch:
